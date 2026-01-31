@@ -1,0 +1,13 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+bin/
+
+# OS junk
+.DS_Store
+
+# Real business data (keep SAMPLE only)
+data/appointments_manual.csv
+data/purchases.csv
+data/schedule2026-01-25.csv
